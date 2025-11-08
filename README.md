@@ -1,23 +1,22 @@
-# CyberX Phishing Awareness Project
+CyberXPhisher
+👤 Created by CyberX
+🔥 About Me
+My name is Muhammad Araiz. I am a 🛡️ cybersecurity enthusiast. My goal is to provide ethical hacking education. This tool is created for 🔍 penetration testing only and for giving awareness of phishing attacks! ⚠️
 
-This project demonstrates how phishing attacks work for educational purposes in a cybersecurity course.
+📖 About CyberXPhisher
+CyberXPhisher is an educational tool designed for ethical penetration testing and cybersecurity research. It helps users understand 🎭 phishing attacks and how to defend against them. 🏴‍☠️
 
-## Features
-- Realistic login page mimicking a university portal
-- Credential capture functionality
-- Animated hacking-themed UI
-- Credential logging system
+✨ Features
+🚀 Start phishing simulations
+📊 View captured data
+🎓 Learn ethical hacking principles
+⚠️ Disclaimer
+This tool is for educational purposes only. Use it only for ethical penetration testing and security awareness! ❗
 
-## Installation
-1. Clone this repository
-2. Run `python3 Cyberx.py`
-3. Select option 1 to start the phishing server
-4. Visit `http://localhost:8080` to view the demo
-
-## Educational Purpose Only
-This tool is designed exclusively for cybersecurity education and authorized penetration testing exercises.
-
-Created by: CyberX Team
-- Muhammad Araiz
-- Muhammad Ahmed
-- Muhammad Shuja
+🛠️ Installation & Usage
+🐧 For Kali Linux:
+git clone https://github.com/Araiizz/CyberX.git
+cd CyberX
+python3 CyberX.py
+📞 Contact
+For inquiries and collaborations, connect via my Social Media Instagram Account araiizzz !
