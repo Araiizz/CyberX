@@ -5,7 +5,7 @@ import sys
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import parse_qs
 from datetime import datetime
-import threadings
+import threading
 
 class PhishingHandler(BaseHTTPRequestHandler):
     def do_GET(self):
